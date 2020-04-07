@@ -1,5 +1,5 @@
 {
-  "name": "voayge-sequel",
+  "name": "voyage-sequel",
   "version": "1.0.0",
   "scripts": {
     "dev": "webpack-dev-server",
