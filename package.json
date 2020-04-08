@@ -2,8 +2,7 @@
   "name": "voyage-sequel",
   "version": "1.0.0",
   "scripts": {
-    "dev": "webpack-dev-server",
-    "build": "webpack",
+    "dev": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
